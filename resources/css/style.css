@@ -33,4 +33,11 @@ dir{
 
 #gray{
   color: gray;
+  font-size: 21px;
+}
+
+.copyright{
+  color: gray;
+  text-align: right;
+  font-size: 21px;
 }
