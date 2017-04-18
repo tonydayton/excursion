@@ -1,7 +1,36 @@
 body{
   background-color: black;
+  font-family: Verdana;
 }
 
 h1{
   color: white;
+  font-size: 50px;
+
+}
+
+p{
+  color:white;
+  text-align: center;
+}
+
+.link{
+  color: aquamarine;
+  text-decoration: underline;
+  text-align: center;
+  font-size: 16px;
+}
+
+dir{
+  text-align: center;
+  margin-top: .1in;
+}
+
+.guide{
+  font-weight: 300;
+  font-size: 42px;
+}
+
+#gray{
+  color: gray;
 }
